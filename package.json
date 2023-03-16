@@ -1,4 +1,7 @@
 {
+  "homepage": "https://giorgioagn.github.io/3d_portfolio/",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "3d_portfolio",
   "private": false,
   "version": "0.0.0",
